@@ -24,8 +24,8 @@ This project is a digital image processing and machine learning application desi
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/CP-RektMart/Cu-ChessGame-to-PGN-SunnySleepy.git
-   cd Cu-ChessGame-to-PGN-SunnySleepy
+   git clone https://github.com/CP-RektMart/CU-ChessGame-to-PGN-SunnySleepy.git
+   cd CU-ChessGame-to-PGN-SunnySleepy
    ```
 2. **Setup Environment**: Ensure you have Python 3.8 or higher and the necessary dependencies installed.
 
